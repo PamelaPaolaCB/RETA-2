@@ -1,0 +1,397 @@
+body {
+    background-color: #9B5DE5;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(15, 15, 15);
+    font-family: Action Jackson;
+    font-size: 2.5em;
+}
+
+button { 
+    text-align: center;
+    color: rgb(15, 15, 15);
+    font-family: serif;
+    font-size: 3.5em;
+}
+
+nav {
+    text-align: center;
+    font-family: ZCOOL KuaiLe;
+    margin: 2px;
+    padding:2px;
+    
+}
+#menu {
+    padding:0;
+    display: block;
+    margin: 15px auto;
+    
+}
+
+#menu li {
+    display: inline-block;
+    width:15%;
+    background-color: #00F5D4;
+    margin: 0 -2px;
+    padding: 0.5em;
+}
+
+#menu li a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: rgb(15, 15, 15);
+}
+
+#menu li:hover {
+    background-color: darkgrey;
+}
+
+#registro {
+    text-align: center;
+}
+
+.botonPrimario {
+    background-color: #FEE440; 
+    width: 10em;
+    height:2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 1em;
+    padding: 0em;
+    border-radius: 30px;
+}
+
+.botonPrimario:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+  }
+
+.botonSegundo {
+    background-color: #FEE440; 
+    width: 10em;
+    height:4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    border:0;
+    padding: 0em;
+}
+
+.botonTercero {
+    background-color:#FEE440; 
+    width: 10em;
+    height:4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    border:0;
+    padding: 0em;
+}
+
+p {
+    text-align: right;
+    text-align: center;
+    color: rgb(247, 245, 243);
+    font-family: ZCOOL KuaiLe;
+    font-size: 3.9em;
+    padding: 1em;
+}
+
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}
+
+h3 { 
+    text-align: center;
+    color: rgb(15, 15, 15);
+    font-family: serif;
+    font-size: 1.5em;
+}
+
+.botonHome {
+    background-color:#FEE440; 
+    width: 10em;
+    height:4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    border:0;
+    padding: 0em;
+    border-radius: 30px;
+}
+
+.botonHome:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+  }
+
+.botonRegreso {
+    background-color:#FEE440; 
+    width: 10em;
+    height:4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    border:0;
+    padding: 0em;
+    border-radius: 30px;
+}
+
+
+.botonRegreso:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+  }
+
+.Tipos {
+    background-color:#FEE440; 
+    width: 10em;
+    height:3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    border:0;
+    padding: 0em;
+    border-radius: 30px;
+}
+
+
+.Tipos:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+}
+
+
+.enviar{
+    text-align: center;
+}
+
+.Preguntas button{
+    padding: 0.5em;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    display: block;
+    margin: 0 auto;
+}
+
+.Preguntas label {
+    display: block;
+    border-radius:30px ;
+    padding:0.3em;
+    text-align: center;
+    width: 65%;
+    margin: 35px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.A{
+    background-color: #00BBF9;
+}
+
+.B {
+    background-color: #F15BB5;
+}
+
+.dibujo {
+    display: inline-block;
+    width: 55%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.Preguntas {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.dibujo img {
+    margin-top: 15%;
+    width: 80%;
+}
+
+.Parrafos label {
+    display: block;
+    border-radius:30px ;
+    padding:1em;
+    text-align: center;
+    width: 50%;
+    margin: 35px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    margin: 35px auto;
+
+}
+
+.falla {
+    background-color: #FEE440;
+}
+
+.grafico {
+    display: inline-block;
+    width: 55%;
+    vertical-align: middle;
+    text-align: right;
+}
+
+.grafico img {
+    margin-top: 0%;
+    width: 70%;
+}
+
+.Parrafos {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Nuevamente button{
+    padding: 0.5em;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    background-color: #FEE440;
+}
+
+.Textos label {
+    display: block;
+    border-radius:30px ;
+    padding:1em;
+    text-align: center;
+    width: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin: 60px auto;
+
+}
+
+.feliz {
+    background-color: #FEE440;
+}
+
+.elemento {
+    display: inline-block;
+    width: 55%;
+    vertical-align: middle;
+    text-align: right;
+}
+
+.elemento img {
+    margin-top: 0%;
+    width: 70%;
+}
+
+.Textos {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#divName{
+    display: block;
+    position: absolute;
+    top: 350px;
+    left: 450px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.Interrogantes {
+    display: block;
+    border-radius:30px ;
+    padding:2em;
+    text-align: center;
+    width: 50%;
+    margin: 35px auto;
+    font-family: ZCOOL KuaiLe;
+    font-size: 50px;
+    margin: 40px auto;
+
+}
+
+.P1 {
+    background-color: #FEE440;
+}
+
+.gif1 {
+    display: inline-block;
+    width: 55%;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.gif1 img {
+    margin-top: 0%;
+    width: 70%;
+}
+.Bt1,.Bt2,.Bt3,.Bt4{
+    font-family: ZCOOL KuaiLe;
+    padding: 5px;
+    background-color: #fee440; 
+    color: #0c0c0c; 
+    margin: 25px;
+}
+
+.alternativas button{
+    font-size: 25px;
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    background-color: #FEE440;
+}
+
+.Bt1:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+}
+
+.Bt2:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+}
+
+.Bt3:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+}
+
+.Bt4:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+}
+
+.Next button{
+    padding: 1em;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    background-color: #FEE440;
+}
+
+.Next:hover{
+    color: #070707;
+    background-color: #6d6b6b;
+}
+
+.alternativas button{
+    padding: 1em;
+    font-size: 25px;
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    background-color: #FEE440;
+}
+
+nav {
+    text-align: center;   
+}
